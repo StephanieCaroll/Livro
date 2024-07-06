@@ -1,0 +1,2 @@
+Edgar Allan Poe (1809-1849) foi um poeta, escritor, crítico literário e editor norte-americano. Poe foi um extraordinário contista e escreveu memoráveis contos de mistério, terror e policiais, sempre com seu estilo único e pioneiro.
+O Gato Preto é um dos mais perturbadores contos de Edgar Allan Poe. Um homem que adora animais se transforma em um perverso ser, cometendo atrocidades com seu gato de estimação. A insanidade é amplificada pelo consumo exagerado de álcool, o que o torna cada vez mais violento.
