@@ -7,22 +7,26 @@ Este repositório contém o texto completo do conto *O Gato Preto* (em portuguê
 
 ## Estrutura do Repositório
 
-- `o_gato_preto.txt`: O arquivo contendo o texto completo do conto em formato de texto simples.
+- `o gato preto.txt`: O arquivo contendo o texto completo do conto em formato de texto simples.
 - `README.md`: Este arquivo, contendo informações sobre o repositório e o conto.
 
-🤝 Contribuições
-Sinta-se à vontade para contribuir com este projeto!
-💡 Sugira melhorias.
-🐛 Relate bugs.
-📚 Compartilhe recursos adicionais
+## Licença
+Este conto é de domínio público, pois foi publicado no século XIX. Portanto, você pode ler, compartilhar e modificar o conteúdo sem restrições de direitos autorais.
 
-📬 Contato
-Autor: Stephanie Caroline de OLiveira Macedo
-E-mail: stephaniecarolinedev@gmail.com
-LinkedIn: linkedin.com/in/stephanie-caroline-97973430b
-GitHub: https://github.com/StephanieCaroll
-🧠 Acessibilidade é responsabilidade de todos. Juntos, podemos construir uma web mais inclusiva! 🌍💻
+## Sobre o Autor
+Edgar Allan Poe (1809–1849) foi um escritor, poeta, editor e crítico literário norte-americano, considerado um dos maiores escritores da literatura americana. Ele é mais conhecido por seus contos de mistério e horror, além de suas poesias que exploram temas sombrios e de profunda introspecção.
 
+## 🤝 Contribuições
+💡 Sugira melhorias. <br>
+🐛 Relate bugs. <br>
+📚 Compartilhe recursos adicionais <br>
 
-Edgar Allan Poe (1809-1849) foi um poeta, escritor, crítico literário e editor norte-americano. Poe foi um extraordinário contista e escreveu memoráveis contos de mistério, terror e policiais, sempre com seu estilo único e pioneiro.
-O Gato Preto é um dos mais perturbadores contos de Edgar Allan Poe. Um homem que adora animais se transforma em um perverso ser, cometendo atrocidades com seu gato de estimação. A insanidade é amplificada pelo consumo exagerado de álcool, o que o torna cada vez mais violento.
+## 📬 Contato
+Autor: Stephanie Caroline de OLiveira Macedo <br>
+E-mail: stephaniecarolinedev@gmail.com <br>
+LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
+GitHub: https://github.com/StephanieCaroll <br>
+
+🦇 "Acredite-me, senhor, eu sou completamente capaz de sentir a dor de uma alma, mas a minha alma está mais ligada ao destino do que à razão."
+— Edgar Allan Poe, O Gato Preto.
+
