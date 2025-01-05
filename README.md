@@ -28,5 +28,5 @@ LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
 GitHub: https://github.com/StephanieCaroll <br>
 
 🦇 "Acredite-me, senhor, eu sou completamente capaz de sentir a dor de uma alma, mas a minha alma está mais ligada ao destino do que à razão."
-— Edgar Allan Poe, O Gato Preto.
+<br> — Edgar Allan Poe, O Gato Preto.
 
